@@ -1,0 +1,19 @@
+{
+  "name": "react-native-stripe",
+  "version": "14.0.0",
+  "description": "Stripe module",
+  "homepage": "https://github.com/FuturePet/stripe",
+  "main": "setup.sh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FuturePet/stripe"
+  },
+  "author": "Futurepet",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "~0.50.0"
+  },
+  "dependencies": {
+    "xcode": "^1.0.0"
+  }
+}
